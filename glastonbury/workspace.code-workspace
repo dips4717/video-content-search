@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\data\\gstbry"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\fairseq\\examples\\MMPT"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

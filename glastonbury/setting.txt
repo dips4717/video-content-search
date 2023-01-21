@@ -1,0 +1,5 @@
+amber:  python inference_video_feat_extr.py --gpuid '1' --dataset_part 1 --donecount 19727
+amber:  python inference_video_feat_extr.py --gpuid '2' --dataset_part 2
+tamatoa:  python inference_video_feat_extr.py --gpuid '1' --dataset_part 3 --donecount 39781
+tamatoa:  python inference_video_feat_extr.py --gpuid '2' --dataset_part 4 --donecount 39602
+tamatoa:  python inference_video_feat_extr.py --gpuid '3' --dataset_part 5 --donecount 39581
