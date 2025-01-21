@@ -3,7 +3,7 @@
 This repo implements two methods of searching video content using free-form input text prompts **Image CLIP** and **Video CLIP**. It uses the GLASTONBURY dataset, composed of video clips from the Glastonbury festivals in years.
 
 <div align="center">
-  <img src="demo_teasure.JPG"/>
+  <img src="demo_teaser.JPG"/>
 </div>
 
 The repo contains scripts for
